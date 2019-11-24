@@ -1,0 +1,7 @@
+{
+    "sketch": "ir-remote-wifi\\app.ino",
+    "board": "esp32:esp32:mhetesp32devkit",
+    "configuration": "FlashFreq=80,PartitionScheme=default,UploadSpeed=921600,DebugLevel=none",
+    "port": "COM3",
+    "output": "C:/Users/o32or/Documents/Arduino/output"
+}

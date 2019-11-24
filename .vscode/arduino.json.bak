@@ -1,0 +1,7 @@
+{
+    "sketch": "ir-remote-wifi\\app.ino",
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328old",
+    "port": "COM3",
+    "output": "C:/Users/o32or/Documents/Arduino/output"
+}

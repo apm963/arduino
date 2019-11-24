@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\o32or\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\**",
+                "C:\\Users\\o32or\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.4\\**",
+                "C:\\Users\\o32or\\Downloads\\arduino-1.8.9-windows\\arduino-1.8.9\\libraries\\TFT\\src",
+                "C:\\Users\\o32or\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "C:\\Users\\o32or\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.5.2\\**",
+                "C:\\Users\\o32or\\Downloads\\arduino-1.8.9-windows\\arduino-1.8.9\\libraries\\Stepper\\src",
+                "C:\\Users\\o32or\\Downloads\\arduino-1.8.9-windows\\arduino-1.8.9\\tools\\**",
+                "C:\\Users\\o32or\\Downloads\\arduino-1.8.9-windows\\arduino-1.8.9\\hardware\\arduino\\avr\\**"
+            ],
+            "forcedInclude": [],
+            "browse": {
+                "path": [
+                    "C:\\Users\\o32or\\Downloads\\arduino-1.8.9-windows\\arduino-1.8.9\\hardware",
+                    "C:\\Users\\o32or\\Downloads\\arduino-1.8.9-windows\\arduino-1.8.9\\libraries",
+                    "C:\\Users\\o32or\\Documents\\Arduino\\libraries\\",
+                    "C:\\Users\\o32or\\Documents\\Arduino\\hardware\\",
+                    "${workspaceRoot}"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
